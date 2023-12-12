@@ -455,8 +455,7 @@ h6 {
 #hero {
   width: 100%;
   height: 100vh;
-  background: url('/assets/img/giphy.gif')
-    top center;
+  background: url('https://media.giphy.com/media/WP3W3yMTdz5nCTR7Fg/giphy.gif') top center;
   background-size: cover;
   position: relative;
 }
